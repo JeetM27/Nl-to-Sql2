@@ -3,4 +3,5 @@ pip install psycopg2-binary
 pip install pandas
 pip install sqlalchemy
 pip install openai
-pip install python-dotenv aa pip install kr
+
+pip install python-dotenv 
